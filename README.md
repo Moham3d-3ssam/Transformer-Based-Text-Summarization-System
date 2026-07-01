@@ -1,4 +1,4 @@
-# 
+# Transformer-Based Text Summarization System
 
 An AI-powered dialogue summarization project built with a Transformer model (T5) and deployed with Gradio.
 
